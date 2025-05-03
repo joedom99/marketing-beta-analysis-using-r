@@ -1,5 +1,8 @@
 # Marketing Beta Analysis
 
+![R](https://img.shields.io/badge/R-4.3.1-blue?logo=r)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Analyze your brand's sensitivity to market trends using the concept of **Marketing Beta**—a marketing adaptation of the well-known financial metric.
 
 This project accompanies the blog post:  
